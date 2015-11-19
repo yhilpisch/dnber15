@@ -9,3 +9,4 @@ plotly_creds
 *.jpg
 *.jpeg
 .ipynb*
+*.html
